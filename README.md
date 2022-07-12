@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashtaginnovator&label=Profile%20views&color=0e75b6&style=flat" alt="hashtaginnovator" /> </p>
 
-<p align="left">  <img width="600px" height="350px" src="https://user-images.githubusercontent.com/94916220/178528746-a47659d9-d5d6-40be-82fa-161c6736f9f7.gif" alt="hashtaginnovator" /> </p>
+<p align="center">  <img width="500px" height="250px" src="https://user-images.githubusercontent.com/94916220/178528746-a47659d9-d5d6-40be-82fa-161c6736f9f7.gif" alt="hashtaginnovator" /> </p>
 # ↤↤↤↤↤ Ｔ𝒽ⒾŞ Ｉ𝐒 ↦↦↦↦↦
 
 
