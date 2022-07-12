@@ -1,6 +1,7 @@
 # I AM CodeBLOODED
 
 [![jasineri/gitartwork](gitartwork.svg)]
+![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
 [Source](https://thumbs.gfycat.com/EnlightenedHeftyGoldenmantledgroundsquirrel-mobile.mp4)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashtaginnovator&label=Profile%20views&color=0e75b6&style=flat" alt="hashtaginnovator" /> </p>
