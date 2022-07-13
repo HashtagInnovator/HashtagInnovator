@@ -20,13 +20,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chetan ohri" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="chetan ohri" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hashtaginnovator" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whit" alt="hashtaginnovator" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@hashtaginnovator" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="@hashtaginnovator" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chetan ohri" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="chetan ohri"/></a>
+<a href="https://www.hackerrank.com/hashtaginnovator" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whit" alt="hashtaginnovator" /></a>
+<a href="https://www.hackerearth.com/@hashtaginnovator" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="@hashtaginnovator"  /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashtaginnovator&show_icons=true&locale=en&layout=compact" alt="hashtaginnovator" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashtaginnovator&show_icons=true&locale=en" alt="hashtaginnovator" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashtaginnovator&" alt="hashtaginnovator" /></p>
