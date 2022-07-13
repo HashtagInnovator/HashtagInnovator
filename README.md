@@ -11,7 +11,7 @@
 &nbsp;
 &nbsp;
 
-[![jasineri/gitartwork](gitartwork.svg)]
+![jasineri/gitartwork](gitartwork.svg)
 &nbsp;
 &nbsp;
  
