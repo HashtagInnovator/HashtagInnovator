@@ -16,16 +16,7 @@
 &nbsp;
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashtaginnovator&label=Profile%20views&color=0e75b6&style=flat" alt="hashtaginnovator" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashtaginnovator" alt="hashtaginnovator" /></a> </p>
-
-- 🔭 I’m currently working on [Awards](https://github.com/HashtagInnovator/Awards)
-
-- 🌱 I’m currently learning **Jquery, PHP, docker**
-
-- 📫 How to reach me **chetanohri2000@gmail.com**
-
-- 📄 Know about my experiences [https://hashtaginnovator.github.io/resume/](https://hashtaginnovator.github.io/resume/)
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
